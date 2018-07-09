@@ -8,8 +8,8 @@ public class ItemGenerator : MonoBehaviour {
     public GameObject bombPrefab;
     float span = 1.0f;
     float delta = 0;
-    int ratio = 2;
-    float speed = -0.03f;
+    int ratio = 3;
+    float speed = -0.07f;
 
     public void SetParameter(float span,float speed,int ratio)
     {

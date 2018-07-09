@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ItemController : MonoBehaviour {
 
-    public float dropSpeed = -0.03f;
+    public float dropSpeed = -0.01f;
 	
 	// Update is called once per frame
 	void Update () {
